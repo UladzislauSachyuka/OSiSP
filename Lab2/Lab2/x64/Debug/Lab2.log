@@ -1,0 +1,15 @@
+﻿  Lab2.cpp
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(89,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(90,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(97,89): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(97,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(109,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(110,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(119,92): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(119,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(141,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(141,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(148,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(148,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ноут\source\OSiSP\Lab2\Lab2\Lab2.cpp(204,87): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab2.vcxproj -> C:\Users\ноут\source\OSiSP\Lab2\x64\Debug\Lab2.exe
